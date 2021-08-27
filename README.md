@@ -7,12 +7,9 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=EylinX alt=EylinX /> </p>
 
-<a href="https://github.com/EylinX">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EylinX&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/EylinX">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EylinX&layout=compact" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EylinX&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EylinX&repo=EylinX)
 
 Languages and Tools:
 
