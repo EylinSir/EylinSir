@@ -3,9 +3,10 @@
 ### 你好，世界 👋
 
 
-[![Github Badge](https://img.shields.io/badge/-EylinX-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EylinX/)](https://www.github.com/EylinX/)
+[![Github Badge](https://img.shields.io/badge/-EylinX-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EylinX/)](https://www.github.com/EylinX/) ![Proflie Viwes](https://komarev.com/ghpvc/?username=EylinX&align=left&alt=EylinX)
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=EylinX alt=EylinX /> </p>
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EylinX&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/EylinX)
 
@@ -38,6 +39,8 @@ Here are some ideas to get you started:
 - :meat_on_bone: 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=EylinX&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+<p align=left> <img src=https://komarev.com/ghpvc/?username=EylinX alt=EylinX /> </p>
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EylinX&repo=EylinX)
 
