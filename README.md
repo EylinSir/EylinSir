@@ -2,9 +2,9 @@
 
 ### 你好，世界 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=EylinX&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 [![Github Badge](https://img.shields.io/badge/-EylinX-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EylinX/)](https://www.github.com/EylinX/)
-## Some of my Github Stats
+
 <p align=left> <img src=https://komarev.com/ghpvc/?username=EylinX alt=EylinX /> </p>
 
 <a href="https://github.com/EylinX">
@@ -41,5 +41,7 @@ Here are some ideas to get you started:
 - :hammer: 
 - :ram: 
 - :meat_on_bone: 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=EylinX&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 -->
