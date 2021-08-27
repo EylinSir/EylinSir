@@ -3,7 +3,7 @@
 ### 你好，世界 👋
 
 
-[![Github Badge](https://img.shields.io/badge/-EylinX-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EylinX/)](https://www.github.com/EylinX/) ![Proflie Viwes](https://komarev.com/ghpvc/?username=EylinX&align=left&alt=EylinX)
+[![Github Badge](https://img.shields.io/badge/-EylinX-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EylinX/)](https://www.github.com/EylinX/) [![Proflie Viwes](https://komarev.com/ghpvc/?username=EylinX&align=left&alt=EylinX)](https://github.com/EylinX)
 
 
 
