@@ -3,12 +3,12 @@
 ### 你好，世界 👋
 
 
-[![Github Badge](https://img.shields.io/badge/-EylinX-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EylinX/)](https://www.github.com/EylinX/) [![Proflie Viwes](https://komarev.com/ghpvc/?username=EylinX&align=left&alt=EylinX)](https://github.com/EylinX)
+[![Github Badge](https://img.shields.io/badge/-EylinSir-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EylinSir/)](https://www.github.com/EylinSir/) [![Proflie Viwes](https://komarev.com/ghpvc/?username=EylinSir&align=left&alt=EylinSir)](https://github.com/EylinSir)
 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EylinX&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/EylinX)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EylinSir&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/EylinSir)
 
 
 Languages and Tools:
